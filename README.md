@@ -1,9 +1,5 @@
 # SET4AI_Part1
 
-[TOC]
-
-
-
 ## Version 1.0
 
 ### Concept
@@ -35,8 +31,6 @@
 ## Version 0.0
 
 The content below is decrepit.
-
-------
 
 
 ### Flawless Model
