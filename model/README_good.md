@@ -21,7 +21,7 @@
 
 ## Features We Use  
 - **Input Features**:  
-   - All columns except the 'Ja', 'Nee', 'checked' variables.    
+   - All columns except the `Ja`, `Nee`, `checked` variables.    
 
 - **Target Variable**:  
    - `checked` column is used as the classification target.
@@ -33,7 +33,7 @@
    - Only some of the features were balanced, thus there should be biased behavior.  
 
 - **A Specific Example**:  
-   - As the _age bias_ is revealed by the _Lighthouse report_, this is a potential start to explore the model.
+   - As the `age bias` is revealed by the `Lighthouse report`, this is a potential start to explore the model.
 
 ---
 
